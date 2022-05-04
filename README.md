@@ -6,7 +6,7 @@ sudo -i
 ___ 
 2 - Segundo comando para alterar Senha root. 
   
-bash <(wget -qO- https://raw.githubusercontent.com/leitura/senharoot/main/senharoot.sh)  
+bash <(wget -qO- https://raw.githubusercontent.com/joaovieiraboa/leitura-senharoot/main/senharoot.sh)  
 ___ 
   
   
